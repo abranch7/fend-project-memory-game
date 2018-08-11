@@ -42,6 +42,8 @@ function shuffle(array) {
     return array;
 }
 
+// loop through each card and create its HTML add each card's HTML to the page
+function 
 
 /*
  * set up the event listener for a card. If a card is clicked:
